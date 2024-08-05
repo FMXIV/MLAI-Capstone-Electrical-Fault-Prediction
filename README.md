@@ -119,4 +119,4 @@ We assessed each model using key performance metrics:
 
 ## Conclusion
 
-Our predictive maintenance solution offers a powerful tool for optimizing maintenance schedules and improving the reliability of power transmission lines. With advanced machine learning techniques and thorough evaluation, our models provide a reliable and efficient approach to managing equipment failures.
+Our fault prediction solution offers a powerful tool for optimizing maintenance schedules and improving the reliability of power transmission lines. With advanced machine learning techniques and thorough evaluation, our models provide a reliable and efficient approach to managing equipment failures.
